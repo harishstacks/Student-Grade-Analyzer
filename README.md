@@ -38,7 +38,7 @@ student-grade-analyzer/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/student-grade-analyzer.git
+   git clone https://github.com/harishstacks/Student-Grade-Analyzer.git
    cd student-grade-analyzer
    ```
 
